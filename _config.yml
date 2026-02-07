@@ -1,2 +1,13 @@
-title: My Blog
+title: "Ameni's Blog"
+description: "Cybersecurity notes & eJPT journey"
 theme: minima
+
+# IMPORTANT for repo named "myblog"
+baseurl: "/myblog"
+url: "https://ameniaz12.github.io"
+
+minima:
+  skin: auto # looks nicer (auto / dark / classic / solarized-dark)
+
+header_pages:
+  - about.md
